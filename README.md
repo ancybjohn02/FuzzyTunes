@@ -1,10 +1,12 @@
-## A modular C++ console-based music player that allows you to manage playlists, rate songs, sort them by title or duration, and explore music by genre, mood, or artist. Designed with object-oriented principles and custom data structures like doubly linked lists, stacks, binary search trees, and classification trees.
+## FuzzyTunes
+
+### A modular C++ console-based music player that allows you to manage playlists, rate songs, sort them by title or duration, and explore music by genre, mood, or artist. Designed with object-oriented principles and custom data structures like doubly linked lists, stacks, binary search trees, and classification trees.
 
 - **Language**: C++
 - **Data Structures**: Doubly Linked List, Stack, Binary Search Tree, Map, Classification Tree
 - **Sorting**: Merge Sort (for stability and performance with linked list conversion)
 
-# PLAYWISE Project Structure
+### PLAYWISE Project Structure
 
 ```
 PLAYWISE/
