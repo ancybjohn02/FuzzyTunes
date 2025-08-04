@@ -129,9 +129,12 @@ for 15th option, if we type in a non-integer value, it will cause an infinite lo
 
 To run the code :
 * navigate to the folder where code is cloned,
+```bash
 mkdir build
 cd build
 cmake ..
 make
 ./PLAYWISE
+```
+
 
