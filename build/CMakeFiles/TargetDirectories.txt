@@ -1,0 +1,3 @@
+/home/zeal/Desktop/PlayWise/build/CMakeFiles/PLAYWISE.dir
+/home/zeal/Desktop/PlayWise/build/CMakeFiles/edit_cache.dir
+/home/zeal/Desktop/PlayWise/build/CMakeFiles/rebuild_cache.dir
